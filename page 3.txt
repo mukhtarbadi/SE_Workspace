@@ -1,0 +1,8 @@
+3.1 Project Flow
+
+- registration
+-login
+-manage customer
+-feedback
+-order view 
+-logout
