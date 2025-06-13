@@ -1,0 +1,24 @@
+2.4   list of modules :-
+
+*user side :- 
+1. customer registration and login
+2. resturent search and selection
+3. menu browsing and order placement
+4. order traking and status update
+5. payment and checkout
+6. review and rating
+7. push notifaction
+8. order traking
+9. feedback and support
+
+
+*admin side:-
+
+1. resturent management
+2. order management
+3. user management
+4. menu anagement
+5. payment and commission
+6. reporting and analytics
+7. promotion and discount 
+8. inventory management
